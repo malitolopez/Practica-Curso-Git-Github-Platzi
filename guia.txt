@@ -1,6 +1,1 @@
-este es un archivo para practicar el curso de git de platzi
-es una manera de probar los conocimientos adquiridos
-se haran diferentes cambios en este archivo para practicar
-
-vuelvo a incluir esta linea
-los cambios tambien se pueden hacer desde visualst
+archivo para trabajar en Rama 1

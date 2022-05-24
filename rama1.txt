@@ -1,1 +1,3 @@
 sigo practicando como usar GIT Y GITLUB
+archivo para trabajar rama1
+
